@@ -1,0 +1,18 @@
+info analysis
+  title "Photon Energy Distribution in GamGam Events"
+
+#object
+object goodPhotons
+  take PHO
+  select E(PHO) > 0  # Ensuring energy is positive
+
+# histogram
+histoList photonHistos
+  histo hPhotonE, "Photon Energy Distribution;Energy (GeV);Events", 50, 0, 400, E(goodPhotons)
+
+# event
+region test
+  select ALL
+  select Size(goodPhotons)>0
+  photonHistos
+
