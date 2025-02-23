@@ -17,4 +17,5 @@ Key findings:
 - All frameworks produce comparable analysis results
 
 Acknowledgments
+
 I would like to acknowledge the use of Large Language Models (LLMs) such as GitHub Copilot in assisting with the search, study, and writing of this report. These tools provided valuable support in generating content and improving the overall quality of the report.
