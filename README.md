@@ -16,6 +16,5 @@ Key findings:
 - CutLang provides simpler syntax with growing community support
 - All frameworks produce comparable analysis results
 
-Acknowledgments
-
+###Acknowledgments
 I would like to acknowledge the use of Large Language Models (LLMs) such as GitHub Copilot in assisting with the search, study, and writing of this report. These tools provided valuable support in generating content and improving the overall quality of the report.
