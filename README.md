@@ -11,7 +11,3 @@ Using data from ATLAS Open Data, the study implements identical analyses across 
 - Development speed
 - Resource availability
 
-Key findings:
-- ROOT/PyROOT offer extensive documentation but complex setup
-- CutLang provides simpler syntax, also complex setup
-- All frameworks produce comparable analysis results
