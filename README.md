@@ -13,8 +13,5 @@ Using data from ATLAS Open Data, the study implements identical analyses across 
 
 Key findings:
 - ROOT/PyROOT offer extensive documentation but complex setup
-- CutLang provides simpler syntax with growing community support
+- CutLang provides simpler syntax, also complex setup
 - All frameworks produce comparable analysis results
-
-### Aknowledgments
-I would like to acknowledge the use of Large Language Models (LLMs) such as GitHub Copilot in assisting with the search, study, and writing of this report. These tools provided valuable support in generating content and improving the overall quality of the report.
